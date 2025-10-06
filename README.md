@@ -1,6 +1,6 @@
 # Cifra_Cesar 🔐: Análise Criptográfica OO
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Status-Pronto_para_Lab-blueviolet?style=for-the-badge" alt="Status do Projeto">
   <img src="https://img.shields.io/badge/Tipo-POO%20&%20Cripto--Análise-orange?style=for-the-badge" alt="Tipo de Projeto">
   <img src="https://img.shields.io/badge/Linguagem-Python%203-blue?style=for-the-badge" alt="Linguagem">
@@ -39,7 +39,7 @@ O único pré-requisito é o **Python 3**.
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/CyberSecurity0000/Cifra_Cesar.git](https://github.com/CyberSecurity0000/Cifra_Cesar.git)
+git clone https://github.com/CyberSecurity0000/Cifra_Cesar.git
 
 # Acesse o diretório
 cd Cifra_Cesar
